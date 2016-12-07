@@ -5,9 +5,23 @@
     <artifactId>VirtualShowcase</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    
+    <developers>
+        <developer>
+            <id>isalnikov</id>
+            <name>Igor Salnikov</name>
+            <email>isalnikov1@gmail.com</email>
+            <url>https://github.com/isalnikov/</url>
+            <timezone>+3</timezone>
+            <roles>
+                <role>Java Developer</role>
+            </roles>
+        </developer>
+    </developers>
+    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>1.7</maven.compiler.source>
-        <maven.compiler.target>1.7</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 </project>
